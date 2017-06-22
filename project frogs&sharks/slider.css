@@ -59,14 +59,14 @@
     color: #ffffff;
     font-size: 3rem;
 }
-#arrows {
+.arrows {
     font-size: 20px;
     top: 50%;
     }
 .carousel-control:hover {
     color: #38bfb4
 }
-}
+
 /* USTAWIENIA KARUZELI DO KONKRETNYCH WYSWIETLACZY */
 @media (max-width: 375px) {
     .carousel-caption {
@@ -151,5 +151,5 @@
         margin-bottom: 0;
         font-size: 3.5em;
     }
-}
+}}
 /*KONIEC USTAWIEŃ KARUZELI DO KONKRETNYCH WYSWIETLACZY */

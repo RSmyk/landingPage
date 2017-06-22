@@ -87,22 +87,22 @@ ul.nav.navbar-nav {
     z-index: 1;
 }
 
-#home-button-left {
+.home-button-left {
     background-color: #32a095;
     border: none;
 }
 
-#home-button-left:hover {
+.home-button-left:hover {
     animation:buttonanimation 1s;
     -webkit-animation:buttonanimation 1s;
 }
 
-#home-button-right {
+.home-button-right {
     background-color: #761b61;
     border: none;
 }
 
-#home-button-right:hover {
+.home-button-right:hover {
     background-color: #a42687;
     border: none;
 }

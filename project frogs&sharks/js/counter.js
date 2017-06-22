@@ -1,12 +1,9 @@
 /**
  * Created by radek on 25.04.17.
  */
-/**
- * Created by radek on 20.04.17.
- */
 
 function getTimeRemaining(startDate) {
-    var t = Date.parse(startDate) - Date.parse(new Date());
+    var t = Date.parse(new Date()) - Date.parse(startDate);
     var seconds =   Math.floor((t / 1000) % 60);
     var minutes = Math.floor((t / 1000 / 60) % 60);
     var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
@@ -35,11 +32,11 @@ function timeToStart(id, startDate) {
         mySeconds.innerHTML = ('0' + t.seconds).slice(-2);
 
         if (t.total <= 0) {
-            clearInterval(timeinterval);
+            clearInterval(timeInterval);
         }
     }
     updateClock();
-    var timeinterval= setInterval(updateClock, 1000)
+    var timeInterval= setInterval(updateClock, 1000)
 }
 var deadline = new Date(2017, 5, 5, 23, 59, 59);
 timeToStart('countdown', deadline);
