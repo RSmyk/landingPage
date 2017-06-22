@@ -1,0 +1,130 @@
+.teamsec{
+    background-image: url("image/swirl.png");
+    color: #ffffff;
+    padding-bottom: 5%;
+}
+.title{
+    text-align: center;
+    color: #000;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+.img100p{
+    width: 100%;
+}
+
+.img100gif{
+    width: 100%;
+
+    position: relative;
+}
+
+.nick{
+    position: absolute;
+    top: 70%;
+    width: 100%;
+    color: #FFF;
+    background-color: rgba(164, 38, 135, 0.5);
+    padding-left: -20px;
+
+
+
+}
+
+
+/*Tutaj zaczynaja sie cssy do formularza*/
+
+.backg{
+    background-image: url("image/backkettle.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+
+.header1 {
+    font-size: 50px;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: 50px;
+
+}
+.back{
+    text-align: center;
+
+}
+
+.texth1{
+    float: left;
+    width: 60%;
+    text-align: left;
+    font-size: 2em;
+}
+
+.quote{
+    font-size: 25px;
+    padding-bottom: 3px;
+    padding-top: 10px;
+    color: #000000;
+    text-align: center;
+    max-width: 100%;
+}
+
+
+.zapis{
+    background: rgba(164, 38, 135, 0.5);
+    background: -webkit-linear-gradient(left, rgba(164, 38, 135, 0.5) , rgba(33, 159, 148, 0.5));
+    background: -o-linear-gradient(right, rgba(164, 38, 135, 0.5) , rgba(33, 159, 148, 0.5));
+    background: -moz-linear-gradient(right, rgba(164, 38, 135, 0.5) , rgba(33, 159, 148, 0.5));
+    background: linear-gradient(to right, rgba(164, 38, 135, 0.5) , rgba(33, 159, 148, 0.5));
+    padding: 12px 20px 50px 30px;
+    height: auto
+    color: #ffffff;
+    font-size: larger;
+
+}
+
+
+/* #grad {
+  background: red; /* For browsers that do not support gradients
+background: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0
+background: -o-linear-gradient(right, red, yellow); /* For Opera 11.1 to 12.0
+background: -moz-linear-gradient(right, red, yellow); /* For Firefox 3.6 to 15
+background: linear-gradient(to right, red , yellow); /* Standard syntax
+}*/
+
+
+.h11{
+    font-size: 30px;
+    text-align: left;
+}
+
+.formbg {
+    color: #ffffff;
+    text-align: left;
+}
+
+.form-control{
+    border: none;
+    border-radius: 0%;
+}
+
+.butto .btn{
+    background-color: #219f94;
+    border: none;
+    font-size: 1.5em;
+    transition: background 1s;
+    color: #ffffff;
+    border-radius: 0%;
+    padding: 5% 20%;
+}
+.butto .btn:hover{
+    background-color: #ff0000;
+    color: #ffffff;
+}
