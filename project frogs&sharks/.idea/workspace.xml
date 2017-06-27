@@ -1,104 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5f931b-9829-4ce7-bffc-9d667858d702" name="Default" comment="game">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project frogs&amp;sharks.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animations.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/digital-7.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/formularz.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/func_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/6794.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Andrzej.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Andrzej.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Barney.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Pszemek.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Radek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Radek.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/arnold.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/backg.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/background-counter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/background-sec-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/background-section2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/backkettle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/bg_plusy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/burneika.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/carousel1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/carousel3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/code.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/craft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/damian.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/dance.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/design.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/desk.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/dietetyk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/exa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/footer-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/gear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/head-background-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/head-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icons/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icons/google-plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icons/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icons/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/icons/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/img_diet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/img_tips.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/img_work.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/interface.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/lekarz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/motivator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/phone-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/photo_fitnes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/rajesh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/rajesh2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/right-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/scream.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/scream2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/sep.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/stallone.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/swirl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/team1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/training.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/wallpaper.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/active-section.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/animate-scroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/counter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/css3-animate-it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/flip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/wow.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scroll.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.form.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styleAnd.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style_radek.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/warunki korzystania.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="de5f931b-9829-4ce7-bffc-9d667858d702" name="Default" comment="game" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -313,12 +216,12 @@
       <workItem from="1494674056440" duration="67000" />
       <workItem from="1496579743586" duration="27000" />
       <workItem from="1498124084284" duration="59000" />
-      <workItem from="1498124234260" duration="6610000" />
+      <workItem from="1498124234260" duration="6888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48932000" />
+    <option name="totallyTimeSpent" value="49210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
