@@ -1,5 +1,5 @@
 .teamsec{
-    background-image: url("image/swirl.png");
+    background-color: #DEDEDE;
     color: #ffffff;
     padding-bottom: 5%;
 }
@@ -8,11 +8,6 @@
     color: #000;
     text-transform: uppercase;
 }
-
-
-
-
-
 
 
 .img100p{
@@ -84,7 +79,7 @@
     background: -moz-linear-gradient(right, rgba(164, 38, 135, 0.5) , rgba(33, 159, 148, 0.5));
     background: linear-gradient(to right, rgba(164, 38, 135, 0.5) , rgba(33, 159, 148, 0.5));
     padding: 12px 20px 50px 30px;
-    height: auto
+    height: auto;
     color: #ffffff;
     font-size: larger;
 

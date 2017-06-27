@@ -11,7 +11,9 @@
     background-repeat: no-repeat;
 }
 
-
+#counter {
+    background-color: #DEDEDE;
+}
 
 .counter {
     display: flex;
