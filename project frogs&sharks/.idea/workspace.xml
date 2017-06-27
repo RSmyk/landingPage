@@ -5,7 +5,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project frogs&amp;sharks.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/css/animations.css" afterPath="" />
@@ -98,6 +97,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/styleAnd.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/style_radek.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/warunki korzystania.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -313,12 +313,12 @@
       <workItem from="1494674056440" duration="67000" />
       <workItem from="1496579743586" duration="27000" />
       <workItem from="1498124084284" duration="59000" />
-      <workItem from="1498124234260" duration="6483000" />
+      <workItem from="1498124234260" duration="6610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48805000" />
+    <option name="totallyTimeSpent" value="48932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
